@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JinhoyBoy
+- 👀 I’m interested in building and designing things and letting my creativity run wild.
+- 🌱 I’m currently learning Front-End development
+- 🐸
