@@ -1,33 +1,3 @@
-<style>
-.header {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  margin-bottom: 1rem;
-}
-/* verhindert Zeilenumbrüche im Text+Link */
-.header span {
-  white-space: nowrap;
-}
-.header img {
-  width: 30vw;
-}
-.gh-light-mode-only,
-.gh-dark-mode-only {
-  display: none !important;
-}
-@media (prefers-color-scheme: light) {
-  .gh-light-mode-only {
-    display: inline !important;
-  }
-}
-@media (prefers-color-scheme: dark) {
-  .gh-dark-mode-only {
-    display: inline !important;
-  }
-}
-</style>
-
 <div class="header">
   <div>
     <h1>👋 Hi, I'm Jinho</h1>
