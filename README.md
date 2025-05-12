@@ -20,13 +20,12 @@
 ![CSS](https://img.shields.io/badge/css-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
----
 
 #### Frameworks & Libraries
     
 ![Docker](https://img.shields.io/badge/docker-%2314b7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-006571?style=for-the-badge&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2371DAFB) ![Next.js](https://img.shields.io/badge/next.js-151815?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
---- 
+
 
 #### Other Tools
     
