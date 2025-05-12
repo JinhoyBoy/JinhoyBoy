@@ -1,4 +1,4 @@
-<table align="center">
+<table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td>
       <h1>👋 Hi, I'm Jinho</h1>
@@ -40,8 +40,8 @@
 ## 📊 Github Stats
 
 <div style="display:flex; justify-content:center; gap:2rem; align-items:flex-start;">
-  <img src="https://github-readme-stats.vercel.app/api?username=jinhoyboy&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=contribs&rank_icon=github"
+  <img src="https://github-readme-stats.vercel.app/api?username=jinhoyboy&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=contribs&rank_icon=github&hide_border=true"
        alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinhoyboy&layout=compact&hide=shaderlab,hlsl&theme=dark"
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinhoyboy&layout=compact&hide=shaderlab,hlsl&theme=dark&hide_border=true"
        alt="Top Langs" />
 </div>
