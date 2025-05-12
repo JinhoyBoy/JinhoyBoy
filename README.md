@@ -1,13 +1,19 @@
-<div class="header">
-  <div>
-    <h1>👋 Hi, I'm Jinho</h1>
-    <span>🎓 Currently studying Computer Science and interning <a href="https://github.com/siemens">@Siemens</a>.</span>
-  </div>
-  <div>
-    <img class="gh-light-mode-only" src="./images/DarkAnimation.gif" alt="DarkModeLogo" />
-    <img class="gh-dark-mode-only" src="./images/LightAnimation.gif" alt="LightModeLogo" />
-  </div>
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <h1>👋 Hi, I'm Jinho</h1>
+      <p>🎓 Currently studying Computer Science and interning <a href="https://github.com/siemens">@Siemens</a>.</p>
+    </td>
+    <td width="30%">
+      <img src="./images/DarkAnimation.gif#gh-light-mode-only"
+           alt="DarkModeLogo"
+           width="100%"/>
+      <img src="./images/LightAnimation.gif#gh-dark-mode-only"
+           alt="LightModeLogo"
+           width="100%">
+    </td>
+  </tr>
+</table>
 
 
 ## 📚 Tech Stack
@@ -34,8 +40,8 @@
 ## 📊 Github Stats
 
 <div style="display:flex; justify-content:center; gap:2rem; align-items:flex-start;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinhoyboy&layout=compact&hide=shaderlab,hlsl&theme=dark"
-       alt="Top Langs" />
   <img src="https://github-readme-stats.vercel.app/api?username=jinhoyboy&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=contribs&rank_icon=github"
        alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinhoyboy&layout=compact&hide=shaderlab,hlsl&theme=dark"
+       alt="Top Langs" />
 </div>
