@@ -1,19 +1,15 @@
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td>
-      <h1>👋 Hi, I'm Jinho</h1>
-      <p>🎓 Currently studying Computer Science and interning <a href="https://github.com/siemens">@Siemens</a>.</p>
-    </td>
-    <td width="30%">
-      <img src="./images/DarkAnimation.gif#gh-light-mode-only"
-           alt="DarkModeLogo"
-           width="100%"/>
-      <img src="./images/LightAnimation.gif#gh-dark-mode-only"
-           alt="LightModeLogo"
-           width="100%">
-    </td>
-  </tr>
-</table>
+<!-- Dark/Light-Mode-GIFs rechts floatend, 30% Breite -->
+<img src="./images/DarkAnimation.gif#gh-light-mode-only"
+     alt="DarkModeLogo"
+     width="30%"
+     align="right"/>
+<img src="./images/LightAnimation.gif#gh-dark-mode-only"
+     alt="LightModeLogo"
+     width="30%"
+     align="right"/>
+
+<h1>👋 Hi, I'm Jinho</h1>
+<p>🎓 Currently studying Computer Science and interning <a href="https://github.com/siemens">@Siemens</a>.</p>
 
 
 ## 📚 Tech Stack
