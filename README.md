@@ -28,13 +28,13 @@
 
 #### Frameworks & Libraries
     
-![Docker](https://img.shields.io/badge/docker-%2314b7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-006571?style=for-the-badge&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js-222222?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%2314b7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-006571?style=for-the-badge&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2371DAFB) ![Next.js](https://img.shields.io/badge/next.js-151815?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 --- 
 
 #### Other Tools
     
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![GitHub](https://img.shields.io/badge/github-120809.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23D95033.svg?style=for-the-badge&logo=git&logoColor=white)  ![Figma](https://img.shields.io/badge/figma-%23EA4335.svg?style=for-the-badge&logo=figma&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![GitHub](https://img.shields.io/badge/github-353535.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23D95033.svg?style=for-the-badge&logo=git&logoColor=white)  ![Figma](https://img.shields.io/badge/figma-%23EA4345.svg?style=for-the-badge&logo=figma&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-612BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 
 ## 📊 Github Stats
