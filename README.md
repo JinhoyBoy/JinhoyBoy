@@ -9,7 +9,7 @@
      align="right"/>
 
 <h1>👋 Hi, I'm Jinho</h1>
-<p>🎓 Currently interning <a href="https://github.com/siemens">@siemens</a>.</p>
+<p>🎓 Currently working <a href="https://github.com/siemens">@siemens</a>.</p>
 
 
 ## 📚 Tech Stack
