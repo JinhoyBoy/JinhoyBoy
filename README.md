@@ -9,7 +9,7 @@
      align="right"/>
 
 <h1>👋 Hi, I'm Jinho</h1>
-<p>🎓 Currently working <a href="https://github.com/siemens">@siemens</a>.</p>
+<p>🎓 Currently working <a href="https://github.com/siemens">@siemens</a> as a Software Engineer for Process Automation.</p>
 
 
 ## 📚 Tech Stack
